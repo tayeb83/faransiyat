@@ -1,0 +1,28 @@
+I"d<div>
+    
+    <div class="pure-u-1 tags">
+        <h3 id="Jekyll">Jekyll</h3>
+        <ul>
+        
+            <li><a href="/welcome-to-myBlog">Welcome to Jekyll!</a></li>
+        
+            <li><a href="/welcome-to-jekyll">Welcome to Jekyll!</a></li>
+        
+        </ul>
+    </div>
+    
+    <div class="pure-u-1 tags">
+        <h3 id="Markdown">Markdown</h3>
+        <ul>
+        
+            <li><a href="/welcome-to-myBlog">Welcome to Jekyll!</a></li>
+        
+            <li><a href="/welcome-to-jekyll">Welcome to Jekyll!</a></li>
+        
+        </ul>
+    </div>
+    
+    <br />
+    <br />
+</div>
+:ET
