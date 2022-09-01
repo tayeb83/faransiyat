@@ -23,8 +23,8 @@ email: tayeb.merabti@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A responsive sidebar Jekyll theme using the Pure.css framework, 
   designed for writers and bloggers of all kinds.
-baseurl: "https://tayeb83.github.io/faransiyat/" # the subpath of your site, e.g. /blog
-#url: "/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://tayeb83.github.io/faransiyat/" # the base hostname & protocol for your site, e.g. http://example.com
 #repository: brennanbrown/purelog
 #twitter: brennankbrown
 #github: brennanbrown
