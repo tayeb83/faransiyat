@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "سجن فرنسا"
+title:  "سجن بغنسي"
 rtl: true
 ---
 
